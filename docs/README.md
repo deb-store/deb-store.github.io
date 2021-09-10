@@ -1,7 +1,4 @@
-Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / XenForo) and Linux (Debian / Fedora / RHEL).
-
-- Development and localization WEB-applications, extensions and visual styles for them.
-- Development and building packages for GNU/Linux.
+Package repository for Debian.
 
 ## Install
 
